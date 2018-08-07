@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi This is Sujith
+  This is my first experience using GitHub
